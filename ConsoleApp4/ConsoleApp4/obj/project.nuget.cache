@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ZdpQ2hutvcBhApTw55LAxjcvo/lB2jv9ai8xm2Ydu98gvrlRyWyoD9WO8vZzNtWXn57IV0zK+B28xF6oCXY5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Core i5\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Core i5\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Core i5\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

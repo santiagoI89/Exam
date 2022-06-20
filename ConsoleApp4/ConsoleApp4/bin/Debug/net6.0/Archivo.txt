@@ -1,0 +1,10 @@
+[]
+Number Doucment: 7960328888
+Firts Name: santiago
+Last Name: gonzales
+Basic Salary: 2300000
+Worked Days: 12
+Health: 36800
+Retereiment: 36800
+Transport: 46860
+Total Salary: 920000
